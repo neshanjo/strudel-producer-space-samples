@@ -4,8 +4,6 @@ Samples from <https://producerspace.com/> ready to be used with [strudel.cc](htt
 
 Import with `samples('github:neshanjo/strudel-producer-space-samples')`.
 
-Browse in 
-
 | Name | Description |
 | ---- | ----------- |
 | `computer` | Spoken Words from Computer World |
