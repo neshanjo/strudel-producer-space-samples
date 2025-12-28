@@ -4,6 +4,30 @@
 * [computer](#computer)
 * [dvs1](#dvs1)
 * [dvs2](#dvs2)
+* [etv_am_136_adlib](#etv_am_136_adlib)
+* [etv_am_136_phrase](#etv_am_136_phrase)
+* [etv_am_136_vocal](#etv_am_136_vocal)
+* [etv_cm_136_adlib](#etv_cm_136_adlib)
+* [etv_cm_136_phrase](#etv_cm_136_phrase)
+* [etv_cm_136_vocal](#etv_cm_136_vocal)
+* [etv_dm_136_adlib](#etv_dm_136_adlib)
+* [etv_dm_136_phrase](#etv_dm_136_phrase)
+* [etv_dm_136_vocal](#etv_dm_136_vocal)
+* [etv_ebj_136_adlib](#etv_ebj_136_adlib)
+* [etv_ebj_136_phrase](#etv_ebj_136_phrase)
+* [etv_ebj_136_vocal](#etv_ebj_136_vocal)
+* [etv_ebm_136_adlib](#etv_ebm_136_adlib)
+* [etv_ebm_136_phrase](#etv_ebm_136_phrase)
+* [etv_ebm_136_vocal](#etv_ebm_136_vocal)
+* [etv_em_136_adlib](#etv_em_136_adlib)
+* [etv_em_136_phrase](#etv_em_136_phrase)
+* [etv_em_136_vocal](#etv_em_136_vocal)
+* [etv_fm_136_adlib](#etv_fm_136_adlib)
+* [etv_fm_136_phrase](#etv_fm_136_phrase)
+* [etv_fm_136_vocal](#etv_fm_136_vocal)
+* [etv_gm_136_adlib](#etv_gm_136_adlib)
+* [etv_gm_136_phrase](#etv_gm_136_phrase)
+* [etv_gm_136_vocal](#etv_gm_136_vocal)
 * [hollywood](#hollywood)
 * [scifi](#scifi)
 * [shv_ab_124](#shv_ab_124)
@@ -371,6 +395,330 @@
 | `dvs2:72` | DVSV2 - Youre Gonna Love This 1.wav |
 | `dvs2:73` | DVSV2 - Youre Gonna Love This 2.wav |
 | `dvs2:74` | DVSV2 - Youre Gonna Love This 3.wav |
+
+[↑ Back to top](#included-samples)
+
+## etv_am_136_adlib
+
+| sample | file name |
+| :--- | :--- |
+| `etv_am_136_adlib:0` | ETV Adlib - 053 - 136 BPM - A minor.wav |
+| `etv_am_136_adlib:1` | ETV Adlib - 054 - 136 BPM - A minor.wav |
+| `etv_am_136_adlib:2` | ETV Adlib - 055 - 136 BPM - A minor.wav |
+| `etv_am_136_adlib:3` | ETV Adlib - 056 - 136 BPM - A minor.wav |
+| `etv_am_136_adlib:4` | ETV Adlib - 057 - 136 BPM - A minor.wav |
+| `etv_am_136_adlib:5` | ETV Adlib - 058 - 136 BPM - A minor.wav |
+| `etv_am_136_adlib:6` | ETV Adlib - 059 - 136 BPM - A minor.wav |
+| `etv_am_136_adlib:7` | ETV Adlib - 060 - 136 BPM - A minor.wav |
+
+[↑ Back to top](#included-samples)
+
+## etv_am_136_phrase
+
+| sample | file name |
+| :--- | :--- |
+| `etv_am_136_phrase:0` | ETV Phrase - 031 - Tonight - 136 BPM - A minor.wav |
+| `etv_am_136_phrase:1` | ETV Phrase - 032 - Tonight Im Yours - 136 BPM - A minor.wav |
+| `etv_am_136_phrase:2` | ETV Phrase - 033 - The Pulse - 136 BPM - A minor.wav |
+| `etv_am_136_phrase:3` | ETV Phrase - 034 - Of The City - 136 BPM - A minor.wav |
+| `etv_am_136_phrase:4` | ETV Phrase - 035 - Beating In Our Hearts - 136 BPM - A minor.wav |
+| `etv_am_136_phrase:5` | ETV Phrase - 036 - When You Find - 136 BPM - A minor.wav |
+| `etv_am_136_phrase:6` | ETV Phrase - 037 - What Makes You Feel Alive - 136 BPM - A minor.wav |
+| `etv_am_136_phrase:7` | ETV Phrase - 038 - Youll Know - 136 BPM - A minor.wav |
+
+[↑ Back to top](#included-samples)
+
+## etv_am_136_vocal
+
+| sample | file name |
+| :--- | :--- |
+| `etv_am_136_vocal:0` | Dry Vocal.wav |
+
+[↑ Back to top](#included-samples)
+
+## etv_cm_136_adlib
+
+| sample | file name |
+| :--- | :--- |
+| `etv_cm_136_adlib:0` | ETV Adlib - 080 - 136 BPM - C minor.wav |
+| `etv_cm_136_adlib:1` | ETV Adlib - 081 - 136 BPM - C minor.wav |
+| `etv_cm_136_adlib:2` | ETV Adlib - 082 - 136 BPM - C minor.wav |
+| `etv_cm_136_adlib:3` | ETV Adlib - 083 - 136 BPM - C minor.wav |
+| `etv_cm_136_adlib:4` | ETV Adlib - 084 - 136 BPM - C minor.wav |
+| `etv_cm_136_adlib:5` | ETV Adlib - 085 - 136 BPM - C minor.wav |
+| `etv_cm_136_adlib:6` | ETV Adlib - 086 - 136 BPM - C minor.wav |
+| `etv_cm_136_adlib:7` | ETV Adlib - 087 - 136 BPM - C minor.wav |
+| `etv_cm_136_adlib:8` | ETV Adlib - 088 - 136 BPM - C minor.wav |
+
+[↑ Back to top](#included-samples)
+
+## etv_cm_136_phrase
+
+| sample | file name |
+| :--- | :--- |
+| `etv_cm_136_phrase:0` | ETV Phrase - 052 - Catch A Falling Star - 136 BPM - C minor.wav |
+| `etv_cm_136_phrase:1` | ETV Phrase - 053 - If You Can - 136 BPM - C minor.wav |
+| `etv_cm_136_phrase:2` | ETV Phrase - 054 - Once In A Lifetime - 136 BPM - C minor.wav |
+| `etv_cm_136_phrase:3` | ETV Phrase - 055 - Its Your Chance - 136 BPM - C minor.wav |
+| `etv_cm_136_phrase:4` | ETV Phrase - 056 - Stars Are Falling 1 - 136 BPM - C minor.wav |
+| `etv_cm_136_phrase:5` | ETV Phrase - 057 - Across The Sky 1 - 136 BPM - C minor.wav |
+| `etv_cm_136_phrase:6` | ETV Phrase - 058 - Across The Sky 2 - 136 BPM - C minor.wav |
+| `etv_cm_136_phrase:7` | ETV Phrase - 059 - Stars Are Falling 2 - 136 BPM - C minor.wav |
+| `etv_cm_136_phrase:8` | ETV Phrase - 060 - Once In A Lifetime - 136 BPM - C minor.wav |
+
+[↑ Back to top](#included-samples)
+
+## etv_cm_136_vocal
+
+| sample | file name |
+| :--- | :--- |
+| `etv_cm_136_vocal:0` | Dry Vocal.wav |
+
+[↑ Back to top](#included-samples)
+
+## etv_dm_136_adlib
+
+| sample | file name |
+| :--- | :--- |
+| `etv_dm_136_adlib:0` | ETV Adlib - 042 - 136 BPM - D minor.wav |
+| `etv_dm_136_adlib:1` | ETV Adlib - 043 - 136 BPM - D minor.wav |
+| `etv_dm_136_adlib:2` | ETV Adlib - 044 - 136 BPM - D minor.wav |
+| `etv_dm_136_adlib:3` | ETV Adlib - 045 - 136 BPM - D minor.wav |
+| `etv_dm_136_adlib:4` | ETV Adlib - 046 - 136 BPM - D minor.wav |
+| `etv_dm_136_adlib:5` | ETV Adlib - 047 - 136 BPM - D minor.wav |
+| `etv_dm_136_adlib:6` | ETV Adlib - 048 - 136 BPM - D minor.wav |
+| `etv_dm_136_adlib:7` | ETV Adlib - 049 - 136 BPM - D minor.wav |
+| `etv_dm_136_adlib:8` | ETV Adlib - 050 - 136 BPM - D minor.wav |
+| `etv_dm_136_adlib:9` | ETV Adlib - 051 - 136 BPM - D minor.wav |
+| `etv_dm_136_adlib:10` | ETV Adlib - 052 - 136 BPM - D minor.wav |
+
+[↑ Back to top](#included-samples)
+
+## etv_dm_136_phrase
+
+| sample | file name |
+| :--- | :--- |
+| `etv_dm_136_phrase:0` | ETV Phrase - 025 - We Drive Into The Night - 136 BPM - D minor.wav |
+| `etv_dm_136_phrase:1` | ETV Phrase - 026 - So Fast So Far From Home - 136 BPM - D minor.wav |
+| `etv_dm_136_phrase:2` | ETV Phrase - 027 - Don't Look Behind - 136 BPM - D minor.wav |
+| `etv_dm_136_phrase:3` | ETV Phrase - 028 - Keep Straight Until Youre - 136 BPM - D minor.wav |
+| `etv_dm_136_phrase:4` | ETV Phrase - 029 - Gone - 136 BPM - D minor.wav |
+| `etv_dm_136_phrase:5` | ETV Phrase - 030 - Faster - 136 BPM - D minor.wav |
+
+[↑ Back to top](#included-samples)
+
+## etv_dm_136_vocal
+
+| sample | file name |
+| :--- | :--- |
+| `etv_dm_136_vocal:0` | Dry Vocal.wav |
+
+[↑ Back to top](#included-samples)
+
+## etv_ebj_136_adlib
+
+| sample | file name |
+| :--- | :--- |
+| `etv_ebj_136_adlib:0` | ETV Adlib - 019 - 136 BPM - Eb Major.wav |
+| `etv_ebj_136_adlib:1` | ETV Adlib - 020 - 136 BPM - Eb Major.wav |
+| `etv_ebj_136_adlib:2` | ETV Adlib - 021 - 136 BPM - Eb Major.wav |
+| `etv_ebj_136_adlib:3` | ETV Adlib - 022 - 136 BPM - Eb Major.wav |
+| `etv_ebj_136_adlib:4` | ETV Adlib - 023 - 136 BPM - Eb Major.wav |
+| `etv_ebj_136_adlib:5` | ETV Adlib - 024 - 136 BPM - Eb Major.wav |
+| `etv_ebj_136_adlib:6` | ETV Adlib - 025 - 136 BPM - Eb Major.wav |
+| `etv_ebj_136_adlib:7` | ETV Adlib - 026 - 136 BPM - Eb Major.wav |
+| `etv_ebj_136_adlib:8` | ETV Adlib - 027 - 136 BPM - Eb Major.wav |
+| `etv_ebj_136_adlib:9` | ETV Adlib - 028 - 136 BPM - Eb Major.wav |
+
+[↑ Back to top](#included-samples)
+
+## etv_ebj_136_phrase
+
+| sample | file name |
+| :--- | :--- |
+| `etv_ebj_136_phrase:0` | ETV Phrase - 009 - Lay Me Down - 136 BPM - Eb Major.wav |
+| `etv_ebj_136_phrase:1` | ETV Phrase - 010 - On The Shore - 136 BPM - Eb Major.wav |
+| `etv_ebj_136_phrase:2` | ETV Phrase - 011 - The Waves - 136 BPM - Eb Major.wav |
+| `etv_ebj_136_phrase:3` | ETV Phrase - 012 - Crashing Over Me - 136 BPM - Eb Major.wav |
+| `etv_ebj_136_phrase:4` | ETV Phrase - 013 - Lay Me Down - 136 BPM - Eb Major.wav |
+| `etv_ebj_136_phrase:5` | ETV Phrase - 014 - Crashing 1 - 136 BPM - Eb Major.wav |
+| `etv_ebj_136_phrase:6` | ETV Phrase - 015 - Crashing 2 - 136 BPM - Eb Major.wav |
+
+[↑ Back to top](#included-samples)
+
+## etv_ebj_136_vocal
+
+| sample | file name |
+| :--- | :--- |
+| `etv_ebj_136_vocal:0` | Dry Vocal.wav |
+
+[↑ Back to top](#included-samples)
+
+## etv_ebm_136_adlib
+
+| sample | file name |
+| :--- | :--- |
+| `etv_ebm_136_adlib:0` | ETV Adlib - 001 - 136 BPM - Eb minor.wav |
+| `etv_ebm_136_adlib:1` | ETV Adlib - 002 - 136 BPM - Eb minor.wav |
+| `etv_ebm_136_adlib:2` | ETV Adlib - 003 - 136 BPM - Eb minor.wav |
+| `etv_ebm_136_adlib:3` | ETV Adlib - 004 - 136 BPM - Eb minor.wav |
+| `etv_ebm_136_adlib:4` | ETV Adlib - 005 - 136 BPM - Eb minor.wav |
+| `etv_ebm_136_adlib:5` | ETV Adlib - 006 - 136 BPM - Eb minor.wav |
+| `etv_ebm_136_adlib:6` | ETV Adlib - 007 - 136 BPM - Eb minor.wav |
+| `etv_ebm_136_adlib:7` | ETV Adlib - 008 - 136 BPM - Eb minor.wav |
+| `etv_ebm_136_adlib:8` | ETV Adlib - 009 - 136 BPM - Eb minor.wav |
+| `etv_ebm_136_adlib:9` | ETV Adlib - 010 - 136 BPM - Eb minor.wav |
+| `etv_ebm_136_adlib:10` | ETV Adlib - 011 - 136 BPM - Eb minor.wav |
+| `etv_ebm_136_adlib:11` | ETV Adlib - 012 - 136 BPM - Eb minor.wav |
+| `etv_ebm_136_adlib:12` | ETV Adlib - 013 - 136 BPM - Eb minor.wav |
+| `etv_ebm_136_adlib:13` | ETV Adlib - 014 - 136 BPM - Eb minor.wav |
+| `etv_ebm_136_adlib:14` | ETV Adlib - 015 - 136 BPM - Eb minor.wav |
+| `etv_ebm_136_adlib:15` | ETV Adlib - 016 - 136 BPM - Eb minor.wav |
+| `etv_ebm_136_adlib:16` | ETV Adlib - 017 - 136 BPM - Eb minor.wav |
+| `etv_ebm_136_adlib:17` | ETV Adlib - 018 - 136 BPM - Eb minor.wav |
+
+[↑ Back to top](#included-samples)
+
+## etv_ebm_136_phrase
+
+| sample | file name |
+| :--- | :--- |
+| `etv_ebm_136_phrase:0` | ETV Phrase - 001 - When You See Me - 136 BPM - Eb minor.wav |
+| `etv_ebm_136_phrase:1` | ETV Phrase - 002 - Somewhere - 136 BPM - Eb minor.wav |
+| `etv_ebm_136_phrase:2` | ETV Phrase - 003 - In Your Memory - 136 BPM - Eb minor.wav |
+| `etv_ebm_136_phrase:3` | ETV Phrase - 004 - Am I In Your Mind - 136 BPM - Eb minor.wav |
+| `etv_ebm_136_phrase:4` | ETV Phrase - 005 - In Your Mind - 136 BPM - Eb minor.wav |
+| `etv_ebm_136_phrase:5` | ETV Phrase - 006 - Memory - 136 BPM - Eb minor.wav |
+| `etv_ebm_136_phrase:6` | ETV Phrase - 007 - Do You See - 136 BPM - Eb minor.wav |
+| `etv_ebm_136_phrase:7` | ETV Phrase - 008 - Remember - 136 BPM - Eb minor.wav |
+
+[↑ Back to top](#included-samples)
+
+## etv_ebm_136_vocal
+
+| sample | file name |
+| :--- | :--- |
+| `etv_ebm_136_vocal:0` | Dry Vocal.wav |
+
+[↑ Back to top](#included-samples)
+
+## etv_em_136_adlib
+
+| sample | file name |
+| :--- | :--- |
+| `etv_em_136_adlib:0` | ETV Adlib - 029 - 136 BPM - E minor.wav |
+| `etv_em_136_adlib:1` | ETV Adlib - 030 - 136 BPM - E minor.wav |
+| `etv_em_136_adlib:2` | ETV Adlib - 031 - 136 BPM - E minor.wav |
+| `etv_em_136_adlib:3` | ETV Adlib - 032 - 136 BPM - E minor.wav |
+| `etv_em_136_adlib:4` | ETV Adlib - 033 - 136 BPM - E minor.wav |
+| `etv_em_136_adlib:5` | ETV Adlib - 034 - 136 BPM - E minor.wav |
+| `etv_em_136_adlib:6` | ETV Adlib - 035 - 136 BPM - E minor.wav |
+| `etv_em_136_adlib:7` | ETV Adlib - 036 - 136 BPM - E minor.wav |
+| `etv_em_136_adlib:8` | ETV Adlib - 037 - 136 BPM - E minor.wav |
+| `etv_em_136_adlib:9` | ETV Adlib - 038 - 136 BPM - E minor.wav |
+| `etv_em_136_adlib:10` | ETV Adlib - 039 - 136 BPM - E minor.wav |
+| `etv_em_136_adlib:11` | ETV Adlib - 040 - 136 BPM - E minor.wav |
+| `etv_em_136_adlib:12` | ETV Adlib - 041 - 136 BPM - E minor.wav |
+
+[↑ Back to top](#included-samples)
+
+## etv_em_136_phrase
+
+| sample | file name |
+| :--- | :--- |
+| `etv_em_136_phrase:0` | ETV Phrase - 016 - I'm Free - 136 BPM - E minor.wav |
+| `etv_em_136_phrase:1` | ETV Phrase - 017 - Free From The Old - 136 BPM - E minor.wav |
+| `etv_em_136_phrase:2` | ETV Phrase - 018 - Distractions 1 - 136 BPM - E minor.wav |
+| `etv_em_136_phrase:3` | ETV Phrase - 019 - I'm Free 1 - 136 BPM - E minor.wav |
+| `etv_em_136_phrase:4` | ETV Phrase - 020 - I Was A Prisoner - 136 BPM - E minor.wav |
+| `etv_em_136_phrase:5` | ETV Phrase - 021 - Of My Own - 136 BPM - E minor.wav |
+| `etv_em_136_phrase:6` | ETV Phrase - 022 - I'm Free 2 - 136 BPM - E minor.wav |
+| `etv_em_136_phrase:7` | ETV Phrase - 023 - I'm Free 3 - 136 BPM - E minor.wav |
+| `etv_em_136_phrase:8` | ETV Phrase - 024 - Distractions 2 - 136 BPM - E minor.wav |
+
+[↑ Back to top](#included-samples)
+
+## etv_em_136_vocal
+
+| sample | file name |
+| :--- | :--- |
+| `etv_em_136_vocal:0` | Dry Vocal.wav |
+
+[↑ Back to top](#included-samples)
+
+## etv_fm_136_adlib
+
+| sample | file name |
+| :--- | :--- |
+| `etv_fm_136_adlib:0` | ETV Adlib - 069 - 136 BPM - F minor.wav |
+| `etv_fm_136_adlib:1` | ETV Adlib - 070 - 136 BPM - F minor.wav |
+| `etv_fm_136_adlib:2` | ETV Adlib - 071 - 136 BPM - F minor.wav |
+| `etv_fm_136_adlib:3` | ETV Adlib - 072 - 136 BPM - F minor.wav |
+| `etv_fm_136_adlib:4` | ETV Adlib - 073 - 136 BPM - F minor.wav |
+| `etv_fm_136_adlib:5` | ETV Adlib - 074 - 136 BPM - F minor.wav |
+| `etv_fm_136_adlib:6` | ETV Adlib - 075 - 136 BPM - F minor.wav |
+| `etv_fm_136_adlib:7` | ETV Adlib - 076 - 136 BPM - F minor.wav |
+| `etv_fm_136_adlib:8` | ETV Adlib - 077 - 136 BPM - F minor.wav |
+| `etv_fm_136_adlib:9` | ETV Adlib - 078 - 136 BPM - F minor.wav |
+| `etv_fm_136_adlib:10` | ETV Adlib - 079 - 136 BPM - F minor.wav |
+
+[↑ Back to top](#included-samples)
+
+## etv_fm_136_phrase
+
+| sample | file name |
+| :--- | :--- |
+| `etv_fm_136_phrase:0` | ETV Phrase - 048 - You Can Follow Me Down to the Ocean - 136 BPM - F minor.wav |
+| `etv_fm_136_phrase:1` | ETV Phrase - 049 - I Will Show You The Place I Belong - 136 BPM - F minor.wav |
+| `etv_fm_136_phrase:2` | ETV Phrase - 050 - Alone Here The Darkness Surrounds Us - 136 BPM - F minor.wav |
+| `etv_fm_136_phrase:3` | ETV Phrase - 051 - In The Water Reflections Of The Moon - 136 BPM - F minor.wav |
+
+[↑ Back to top](#included-samples)
+
+## etv_fm_136_vocal
+
+| sample | file name |
+| :--- | :--- |
+| `etv_fm_136_vocal:0` | Dry Vocal.wav |
+
+[↑ Back to top](#included-samples)
+
+## etv_gm_136_adlib
+
+| sample | file name |
+| :--- | :--- |
+| `etv_gm_136_adlib:0` | ETV Adlib - 061 - 136 BPM - G minor.wav |
+| `etv_gm_136_adlib:1` | ETV Adlib - 062 - 136 BPM - G minor.wav |
+| `etv_gm_136_adlib:2` | ETV Adlib - 063 - 136 BPM - G minor.wav |
+| `etv_gm_136_adlib:3` | ETV Adlib - 064 - 136 BPM - G minor.wav |
+| `etv_gm_136_adlib:4` | ETV Adlib - 065 - 136 BPM - G minor.wav |
+| `etv_gm_136_adlib:5` | ETV Adlib - 066 - 136 BPM - G minor.wav |
+| `etv_gm_136_adlib:6` | ETV Adlib - 067 - 136 BPM - G minor.wav |
+| `etv_gm_136_adlib:7` | ETV Adlib - 068 - 136 BPM - G minor.wav |
+
+[↑ Back to top](#included-samples)
+
+## etv_gm_136_phrase
+
+| sample | file name |
+| :--- | :--- |
+| `etv_gm_136_phrase:0` | ETV Phrase - 039 - Is It Just A Dream - 136 BPM - G minor.wav |
+| `etv_gm_136_phrase:1` | ETV Phrase - 040 - Imagination - 136 BPM - G minor.wav |
+| `etv_gm_136_phrase:2` | ETV Phrase - 041 - Is It Real - 136 BPM - G minor.wav |
+| `etv_gm_136_phrase:3` | ETV Phrase - 042 - I Dont Know Whats Real Anymore - 136 BPM - G minor.wav |
+| `etv_gm_136_phrase:4` | ETV Phrase - 043 - Dont Wake Me 1 - 136 BPM - G minor.wav |
+| `etv_gm_136_phrase:5` | ETV Phrase - 044 - Dont Wake Me 2 - 136 BPM - G minor.wav |
+| `etv_gm_136_phrase:6` | ETV Phrase - 045 - Dream - 136 BPM - G minor.wav |
+| `etv_gm_136_phrase:7` | ETV Phrase - 046 - Imagination - 136 BPM - G minor.wav |
+| `etv_gm_136_phrase:8` | ETV Phrase - 047 - Dream - 136 BPM - G minor.wav |
+
+[↑ Back to top](#included-samples)
+
+## etv_gm_136_vocal
+
+| sample | file name |
+| :--- | :--- |
+| `etv_gm_136_vocal:0` | Dry Vocal.wav |
 
 [↑ Back to top](#included-samples)
 
