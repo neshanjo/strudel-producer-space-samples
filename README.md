@@ -15,4 +15,6 @@ Import with `samples('github:neshanjo/strudel-producer-space-samples')`.
 | `sq` | Spoken Quotes |
 | `whisper` | Whispered Words |
 
+A **[💡detailed list](strudel.md)** of sample with index and corresponding file name can be found in [strudel.md](strudel.md).
+
 The samples are provided with [CC0 1.0 Universal (Public Domain) license](LICENSE.txt), so I guess it is ok to re-upload them here. Otherwise please contact me - I'll take it down immediately.
